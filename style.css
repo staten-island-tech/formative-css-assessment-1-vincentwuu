@@ -17,3 +17,6 @@ img{
     height: 50vh;
     filter: blur(10px);
 }
+body{
+    text-align: center;
+}
