@@ -4,8 +4,8 @@ h1{
 div{
     background-image: linear-gradient(
         to right bottom,
-        rgba(255, 90, 9, .7),
-        rgba(236, 127, 55, .7)),
+        rgba(9, 177, 255, 0.7),
+        rgba(12, 172, 236, 0.7)),
         
     url(media/sky-4608972_1920.jpg);
     height: 100vh;
